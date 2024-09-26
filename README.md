@@ -1,19 +1,2 @@
-# arthi035
-
-A new Flutter project created with FlutLab - https://flutlab.io
-
-## Getting Started
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+![Screenshot (78)](https://github.com/user-attachments/assets/56c08990-bea2-4f2d-97ec-80cefe0c22e5)
+Login Page Verification Complete! Secure & Seamless Authentication for Bissful Bakes!. Explore the code, contribute, and enhance security on GitHub!
